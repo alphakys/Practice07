@@ -15,7 +15,7 @@ public class ShapeApp {
 		
 		sr2.draw();
 		
-		
+	
 		
 		
 		//sr1의 가로크기 출력
